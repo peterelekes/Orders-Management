@@ -8,3 +8,4 @@ An application for managing the client orders for a warehouse.
 - GUI with Java Swing
 - Reflection
 - Layered architecture
+- Validator with RegEx
